@@ -37,3 +37,10 @@ public class HelloJava {
 
 		}
 }
+
+
+void test(){
+System.out.println();
+}
+
+
