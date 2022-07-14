@@ -39,7 +39,7 @@ public class HelloJava {
 }
 
 
-void test(){
+void test(){>>>master
 System.out.println();
 }
 
