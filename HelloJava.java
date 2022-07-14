@@ -40,7 +40,7 @@ public class HelloJava {
 
 
 void test(){>>>master
-System.out.println();
+System.out.println();>>>>test
 }
 
 
