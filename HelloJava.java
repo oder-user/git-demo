@@ -39,8 +39,8 @@ public class HelloJava {
 }
 
 
-void test(){
-System.out.println();
+void test(){>>>got-fix
+System.out.println();>>>>test
 }
 
 
